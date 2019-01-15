@@ -10,7 +10,7 @@ comments: false
 
 So you've stumbled across the gateway unto my world of sub-sites! Welcome, please enjoy and make sure to follow a few general rules.
 
-## Rules
+## The Rules
 
 1. Most things here are under the [Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "License")
 2. 
