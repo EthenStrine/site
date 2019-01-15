@@ -1,12 +1,12 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              ethen
+bio:                'A hub for all things me'
+description:        "A great landing page."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/bkg.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://dwarf.pro/site
 
@@ -39,18 +39,18 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            lonelydwarf
-facebook:           username
-github-url:         username
+#facebook:           username
+github-url:         lonelydwarffiles
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          ethenisalighter
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
