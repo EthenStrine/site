@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Milton Sonnnets"
+title:  "Paradise Lost"
 date:   2019-01-10
 excerpt: "Notes on 'Paradise Lost' by Milton."
 tag:
