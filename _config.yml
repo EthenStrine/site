@@ -1,7 +1,7 @@
 # Site
 title:              ethen
-bio:                'A hub for all things me'
-description:        "A great landing page."
+bio:                'A hub for all things ethen.'
+description:        "A simple hub for all things ethen."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
