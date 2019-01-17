@@ -20,3 +20,6 @@ comments: true
 
 The first two Hanoverian kings (**George I, George II**) were a lot more interested in affairs back in Germany than in England and allowed power to fall almost completely into the hands of Parliment, *where it remains today.*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **George III** attempted to be a tough guy and rule England more actively, but he only succeeded in losing the American Colonies!
+
+These events, including the defeat of the military attempt to reestablish the Stuarts on the throne, illustrate how much *more powerful* Parliment had now become in the era.   
+This is because of the Magna Carta. {: .notice}
