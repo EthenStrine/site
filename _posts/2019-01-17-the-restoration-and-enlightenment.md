@@ -24,7 +24,7 @@ The first two Hanoverian kings (**George I, George II**) were a lot more interes
 
 These events, including the defeat of the military attempt to reestablish the Stuarts on the throne, illustrate how much *more powerful* Parliment had now become in the era.  
 
-    This is because of the Magna Carta. 
+<center>This is because of the Magna Carta. </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The two-party system began to emerge in the Parliment
 
@@ -71,3 +71,8 @@ Central to this period was the rise of the **Age of Reason**, which centered on 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The majority of the plays produced during this era were **comedies**.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other great writers of the period included men like **Samuel Johnson, Samuel Richardson, Henry Fielding, Laurence Sterne,** and **Tobias Smollett**
+
+Also, this period saw the rapid rise in popularity and importance of *satire* - writing that holds up to ridicule or contempt the weaknesses and wrong-doings of individuals, groups, institutions, or humanity in general - the aim of the great satirists was (and still is) to set a moral standard for society and to attempt to persuade the reader to see their point of view through the force of laughter.
+
+Great satirists of the era included **Samuel Johnson, Joseph Addison, Richard Steele, Alexander Pope,** and perhaps the greatest of all time, **Johnathon Swift**.
