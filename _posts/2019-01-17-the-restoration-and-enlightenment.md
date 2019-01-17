@@ -14,7 +14,7 @@ comments: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The term "Restoration" refers to the restoration of the Monarchy, which occured in 1660 with the return of the Stuart royal family and the coronation of Charles II, son of the murdered King Charles I. Following Oliver Cromwell's death in 1658, the British middle classes, tired of strict Puritan rule - reestablished commmunication with Charles II, exiled in France, paving the way for a bloddless return to parliamentary government and the Monarchy.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although the primary focus of the British government was to maintain stability, the death of Charles II in 1685 brought his brother, James II, a devout Catholic, to the throne - "**The Glorious Revolution**" the removal of James from the throne once again, *without bloodshed*.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although the primary focus of the British government was to maintain stability, the death of Charles II in 1685 brought his brother, James II, a devout Catholic, to the throne - "**The Glorious Revolution**" of 1688 caused the removal of James II from the throne once again, *without bloodshed*.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James' daughter **Mary** ruled jointly with her husband **William of Orange** from 1689-1702 - her sister, **Queen Anne** (1702-1714) died childless. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rather than have the throne pass to **James Stuart**, rightful heir, but another Catholic, the Stuart succession was ended in favour of the **German Elector of Hanover - George I** (1714-1727) assumed the throne in 1714.
