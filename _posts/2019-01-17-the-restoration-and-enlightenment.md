@@ -2,7 +2,7 @@
 layout: post
 title:  "The Restoration and The Enlightenment"
 date:   2019-01-17
-excerpt: "The Restoration of the English monarchy took place in the Stuart period. It began in 1660 when the English, Scottish and Irish monarchies were all restored under King Charles II. This followed the Interregnum, also called the Protectorate, that followed the Wars of the Three Kingdoms"
+excerpt: "The Restoration of the English monarchy began in 1660 when the English, Scottish and Irish monarchies were all restored under King Charles II."
 tag:
 - English
 - Notes
