@@ -10,6 +10,7 @@ tag:
 - Historical
 comments: true
 ---
+## The Restoration
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The term "Restoration" refers to the restoration of the Monarchy, which occured in 1660 with the return of the Stuart royal family and the coronation of Charles II, son of the murdered King Charles I. Following Oliver Cromwell's death in 1658, the British middle classes, tired of strict Puritan rule - reestablished commmunication with Charles II, exiled in France, paving the way for a bloddless return to parliamentary government and the Monarchy.  
 
@@ -57,3 +58,13 @@ For the increasingly influential **middle class**, the new social center became 
 **Will's** / writer's mostly   
 **White's** / politicians, lawyers, free-and-easy aristocrats  
 other popular coffeehouses included **St. Jame's, The Grecian, Buttons,** and **The Turk's Head** - all of these gathering places became the centers for serious discussion of things like religion, philosophy, literature, domestic and foreign affairs, and plenty of pleasent or malicious gossip!
+
+## Age of Reason
+
+Central to this period was the rise of the **Age of Reason**, which centered on the basic philosophy of common sense, an end to superstition, an increased importance given to science, and a new way of examining society and the universe.
+
+<center> According to Newton, the universe was a smoothly running machine first set in motion by a benevolent deity - "<b>Deism</b>"</center>
+
+### Developments in Literature
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charles II reopened the theatres, but Restoration theatre differed greatly from the theatre of the Elizabethans - it was more of an ***upper class*** diversion - also women's roles were now played by actresses!
