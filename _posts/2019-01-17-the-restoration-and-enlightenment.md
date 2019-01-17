@@ -21,7 +21,8 @@ comments: true
 The first two Hanoverian kings (**George I, George II**) were a lot more interested in affairs back in Germany than in England and allowed power to fall almost completely into the hands of Parliment, *where it remains today.*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **George III** attempted to be a tough guy and rule England more actively, but he only succeeded in losing the American Colonies!
 
-These events, including the defeat of the military attempt to reestablish the Stuarts on the throne, illustrate how much *more powerful* Parliment had now become in the era.   
+These events, including the defeat of the military attempt to reestablish the Stuarts on the throne, illustrate how much *more powerful* Parliment had now become in the era.  
+ 
 This is because of the Magna Carta. {: .notice}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The two-party system began to emerge in the Parliment
@@ -33,3 +34,5 @@ This is because of the Magna Carta. {: .notice}
 >Represented the country squires - the gentry - all those who favoured the old traditions (many had supported the Stuarts' attempted return)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two major disasters for England during the Restoration Period were the **Plague of 1665** and the **Great London Fire** which occured in 1666.
+
+&nbsp;&nbsp;&nbsp;&nbsp;The new "rational age" brought an increased understanding of the importance of ***science*** with the emergance of men like *Sir Isaac Newton, William Harvey,* and *John Lock*.
