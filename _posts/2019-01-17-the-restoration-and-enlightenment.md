@@ -39,16 +39,16 @@ These events, including the defeat of the military attempt to reestablish the St
 &nbsp;&nbsp;&nbsp;&nbsp;The new "rational age" brought an increased understanding of the importance of ***science*** with the emergance of men like *Sir Isaac Newton, William Harvey,* and *John Lock*.
 
 
-English class society could, by this time, be divided up as follows:  
-
-    1. The Great, who live profusely  
-    2. The Rich, who live very plentifully  
-    3. The Middle Sort, who live well  
-    4. The Working Trades, who labour hard, but feel no want  
-    5. The Country People, Farmers, etc., who fare indifferently  
-    6. The Poor, that fare hard.  
-    7. The Miserable, that realluy pinch and suffer want  
-<div style="text-align: right"> -Daniel Defoe (1660?-1731) </div>
+> English class society could, by this time, be divided up as follows: 
+>  
+>    1. The Great, who live profusely  
+>    2. The Rich, who live very plentifully  
+>    3. The Middle Sort, who live well  
+>    4. The Working Trades, who labour hard, but feel no want  
+>    5. The Country People, Farmers, etc., who fare indifferently  
+>    6. The Poor, that fare hard.  
+>    7. The Miserable, that realluy pinch and suffer want  
+> <div style="text-align: right"> -Daniel Defoe (1660?-1731) </div>
 
 Marriage during this era was still, largely, an economic arrangement, joining families and estates - two of the most popular ***novels*** of the era, *The History of Tom Jones* by Henry Fielding and *Clarissa* by Samuel Richardson illustrated the unhappy situations that frequently result from these arrangements.
 
