@@ -23,3 +23,13 @@ The first two Hanoverian kings (**George I, George II**) were a lot more interes
 
 These events, including the defeat of the military attempt to reestablish the Stuarts on the throne, illustrate how much *more powerful* Parliment had now become in the era.   
 This is because of the Magna Carta. {: .notice}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The two-party system began to emerge in the Parliment
+
+### The Whig Party
+>Represented primarily those with financial and mercantile intrests, the cities and towns, and opposed the influence of the Monarchy.
+
+### The Tories
+>Represented the country squires - the gentry - all those who favoured the old traditions (many had supported the Stuarts' attempted return)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two major disasters for England during the Restoration Period were the **Plague of 1665** and the **Great London Fire** which occured in 1666.
