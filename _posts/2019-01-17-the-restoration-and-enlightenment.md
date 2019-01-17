@@ -23,7 +23,7 @@ The first two Hanoverian kings (**George I, George II**) were a lot more interes
 
 These events, including the defeat of the military attempt to reestablish the Stuarts on the throne, illustrate how much *more powerful* Parliment had now become in the era.  
 
-This is because of the Magna Carta. {: .notice}
+    This is because of the Magna Carta. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The two-party system began to emerge in the Parliment
 
