@@ -68,3 +68,6 @@ Central to this period was the rise of the **Age of Reason**, which centered on 
 ### Developments in Literature
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charles II reopened the theatres, but Restoration theatre differed greatly from the theatre of the Elizabethans - it was more of an ***upper class*** diversion - also women's roles were now played by actresses!
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The majority of the plays produced during this era were **comedies**.
+
