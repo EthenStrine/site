@@ -13,7 +13,7 @@ comments: true
 # "A Song for St. Cecilia's Day"
 ## - John Dryden
 
-<pre align=center>
+<center><pre>
 FROM harmony, from heavenly harmony,	 
       This universal frame began:	 
   When nature underneath a heap	 
@@ -87,7 +87,7 @@ This crumbling pageant shall devour,	  60
 The trumpet shall be heard on high,	 
 The dead shall live, the living die,	 
 And Music shall untune the sky!
-</pre>
+</pre></center>
 
 &nbsp;&nbsp;&nbsp;This poem helps us to usher in the *Neoclassical Period* in English literature - *neoclassicism* is the revival in the seventeenth and eighteenth centuries of classical standards of **order, balance,** and **harmony** in literature. Neoclassical writers like Dryden and **Alexander Pope** developed a style that was characterised by good form, logic, symmetry, grace, good taste, restraint, clarity, and conciseness.
 
@@ -103,3 +103,5 @@ I 15 - the **diapason** is an organ stop - mankind represents nature;s fullest h
 
 ### Stanzas III-VI  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The trumpet, flute, violin, and organ are each given individual attention here - the poet, like Edgar Allen Poe did in "The Bells," and Sidney Lanier in "The Song of the Chattahoochee," tries to alter the sound of each stanza to fit the instrument - in stanza VI, however, the organ recieves the highest praise.
+
+### Grand Chorus  
