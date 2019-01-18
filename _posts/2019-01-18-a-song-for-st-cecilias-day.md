@@ -19,3 +19,4 @@ comments: true
 
 ### Stanza I
 II 1-5 - the poet credits music with having helped to create life itself  
+II 8-9 - the forces of creation and music share a common ancestry, according to the speaker.  
