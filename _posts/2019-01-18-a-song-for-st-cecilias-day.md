@@ -80,7 +80,6 @@ When to her organ vocal breath was given,
  
 GRAND CHORUS.
 
-
 As from the power of sacred lays	  55
   The spheres began to move,	 
 And sung the great Creator's praise	 
@@ -108,3 +107,4 @@ I 15 - the **diapason** is an organ stop - mankind represents nature;s fullest h
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The trumpet, flute, violin, and organ are each given individual attention here - the poet, like Edgar Allen Poe did in "The Bells," and Sidney Lanier in "The Song of the Chattahoochee," tries to alter the sound of each stanza to fit the instrument - in stanza VI, however, the organ recieves the highest praise.
 
 ### Grand Chorus  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this final "movement," Dryden imitates the sound of the final section of a great choral piece - rhythm and meter imitate the sound of a chorale, similar to Bach or Beethoven. The message of this section is that, much as it was at the beginning of the universe, music will be there when all things conme to an end!
