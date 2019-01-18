@@ -108,3 +108,5 @@ I 15 - the **diapason** is an organ stop - mankind represents nature;s fullest h
 
 ### Grand Chorus  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this final "movement," Dryden imitates the sound of the final section of a great choral piece - rhythm and meter imitate the sound of a chorale, similar to Bach or Beethoven. The message of this section is that, much as it was at the beginning of the universe, music will be there when all things conme to an end!
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/_RcVzevWX4U" frameborder="0"> </iframe>
