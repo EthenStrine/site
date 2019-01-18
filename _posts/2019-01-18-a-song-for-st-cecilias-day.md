@@ -97,3 +97,7 @@ And Music shall untune the sky!
 II 1-5 - the poet credits music with having helped to create life itself  
 II 8-9 - the forces of creation and music share a common ancestry, according to the speaker.  
 I 15 - the **diapason** is an organ stop - mankind represents nature;s fullest harmony.
+
+### Stanza II
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here, the poet emphasizes the beauty of music by relating the story of creation by Jubal, a decendant of Cain, and the wonder it inspired.
