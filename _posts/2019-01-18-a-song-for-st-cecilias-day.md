@@ -10,8 +10,11 @@ tag:
 - Historical
 comments: true
 ---
-# "A Song for St. Cecilia's Day"
-## - John Dryden
+
+<center>
+<h1 >"A Song for St. Cecilia's Day" </h1>
+<h2> - John Dryden </h2>
+</center>
 
 <center><pre>
 FROM harmony, from heavenly harmony,	 
