@@ -18,4 +18,3 @@ comments: true
 &nbsp;&nbsp;&nbsp;This poem is an ***ode*** - a poem, originally intended to be sung, whose stately, orante language is appropriate to its serious subject - it is a loft poem on a diginified theme.
 
 ### Stanza I
-
