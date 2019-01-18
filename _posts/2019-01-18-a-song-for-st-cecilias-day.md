@@ -98,7 +98,8 @@ II 1-5 - the poet credits music with having helped to create life itself
 II 8-9 - the forces of creation and music share a common ancestry, according to the speaker.  
 I 15 - the **diapason** is an organ stop - mankind represents nature;s fullest harmony.
 
-### Stanza II
-
+### Stanza II  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here, the poet emphasizes the beauty of music by relating the story of creation by Jubal, a decendant of Cain, and the wonder it inspired.
 
+### Stanzas III-VI  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The trumpet, flute, violin, and organ are each given individual attention here - the poet, like Edgar Allen Poe did in "The Bells," and Sidney Lanier in "The Song of the Chattahoochee," tries to alter the sound of each stanza to fit the instrument - in stanza VI, however, the organ recieves the highest praise.
