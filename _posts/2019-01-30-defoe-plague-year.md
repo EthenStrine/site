@@ -28,10 +28,24 @@ comments: true
 &nbsp;&nbsp;&nbsp; The discription here of the behaviour of those in the final stages of the disease is particularly harrrowing.
 
 ### Paragraph VII
-&nbsp;&nbsp;&nbsp; The narrator's compulsive desire to visit the pit, despite the warnings of the sexton, illustrate humanity's frequent need to "view the catastrophe." The narrator thinks of it as a possible chance for spiritual growth - an "instructing sight."
+&nbsp;&nbsp;&nbsp; The narrator's compulsive desire to visit the pit, despite the warnings of the sexton<a href="#note1" id="note1ref"><sup>1</sup></a>
+, illustrate humanity's frequent need to "view the catastrophe." The narrator thinks of it as a possible chance for spiritual growth - an "instructing sight."
 
+### Paragraphs VIII & IX
+In relating the incident of the greiving father in the brown cloak, Defoe makes use of *pathos*<a href="#note2" id="note2ref"><sup>2</sup></a>
+, which is the quality in a work of literature or art that arouses the reader's feelings of pity, sorrow, or compassion for a character.
+
+### Paragraph X
+&nbsp;&nbsp;&nbsp; Defoe makes a fine philosophical commentary here on the nature of death, as he refers to the pit as "the common grave of mankind" where both "poor and rich went together."
+
+### Paragraph XII - end
+&nbsp;&nbsp;&nbsp; Defoe's descriptions here of the sights and sounds of plague-infested London are truly terrifying. Again, *first person narrative* point-of-view is essential to the effectiveness of this passage. Relating the incident of the man who leaped into the Thames<a href="#note3" id="note3ref"><sup>3</sup></a> in the final paragraph of the excerpt further streghtens the impression that this story is being related to us by someone who was actually present.
 
 
 
 ### Vocab
-&nbsp;&nbsp;&nbsp; A sexton is a person who looks after a church and churchyard, sometimes acting as bell-ringer and formerly as a gravedigger.
+&nbsp;&nbsp;&nbsp; <a id="note1" href="#note1ref"><sup>1</sup></a>A sexton is a person who looks after a church and churchyard, sometimes acting as bell-ringer and formerly as a gravedigger.
+
+&nbsp;&nbsp;&nbsp; <a id="note2" href="#note2ref"><sup>2</sup></a> Pathos is a quality that evokes pity or sadness.
+
+&nbsp;&nbsp;&nbsp; <a id="note3" href="#note3ref"><sup>3</sup></a> The River Thames is a river that flows through southern England including London. At 215 miles, it is the longest river entirely in England and the second longest in the United Kingdom, after the River Severn. It flows through Oxford, Reading, Henley-on-Thames and Windsor.
