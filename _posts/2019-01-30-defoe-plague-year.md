@@ -25,4 +25,13 @@ comments: true
 &nbsp;&nbsp;&nbsp; Here, in describing the great pit where the dead were placed, Defoe illustrates a more journalistic style by describing the pit's specific dimensions and the various problems associated with its use. Also, discussing the numbers of dead thrown into the pit helps Defoe capture the sheer horror of the plague's devastation.
 
 ### Paragraph V
-&nbsp;&nbsp;&nbsp;The discription here of the behaviour of those in the final stages of the disease is particularly harrrowing.
+&nbsp;&nbsp;&nbsp; The discription here of the behaviour of those in the final stages of the disease is particularly harrrowing.
+
+### Paragraph VII
+&nbsp;&nbsp;&nbsp; The narrator's compulsive desire to visit the pit, despite the warnings of the sexton, illustrate humanity's frequent need to "view the catastrophe." The narrator thinks of it as a possible chance for spiritual growth - an "instructing sight."
+
+
+
+
+### Vocab
+&nbsp;&nbsp;&nbsp; A sexton is a person who looks after a church and churchyard, sometimes acting as bell-ringer and formerly as a gravedigger.
