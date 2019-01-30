@@ -2,7 +2,8 @@
 layout: post
 title:  "A Journal of the Plague Year"
 date:   2019-01-30
-excerpt: "This poem helps us to usher in the Neoclassical Period in English literature. Neoclassicism is the revival in the seventeenth and eighteenth centuries of classical standards of order, balance, and harmony in literature."
+excerpt: "This novel is an account of one man's experiences of the year 1665, in which the Great Plague or the bubonic plague struck the city of London."
+feature: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Defoe_Journal_of_the_Plague_Year.jpg/220px-Defoe_Journal_of_the_Plague_Year.jpg
 tag:
 - English
 - Notes
