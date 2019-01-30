@@ -44,7 +44,7 @@ In relating the incident of the greiving father in the brown cloak, Defoe makes 
 
 
 ### Vocab
-&nbsp;&nbsp;&nbsp; <a id="note1" href="#note1ref"><sup>1</sup></a>A sexton is a person who looks after a church and churchyard, sometimes acting as bell-ringer and formerly as a gravedigger.
+&nbsp;&nbsp;&nbsp; <a id="note1" href="#note1ref"><sup>1</sup></a> A sexton is a person who looks after a church and churchyard, sometimes acting as bell-ringer and formerly as a gravedigger.
 
 &nbsp;&nbsp;&nbsp; <a id="note2" href="#note2ref"><sup>2</sup></a> Pathos is a quality that evokes pity or sadness.
 
