@@ -48,4 +48,4 @@ In relating the incident of the greiving father in the brown cloak, Defoe makes 
 
 &nbsp;&nbsp;&nbsp; <a id="note2" href="#note2ref"><sup>2</sup></a> Pathos is a quality that evokes pity or sadness.
 
-&nbsp;&nbsp;&nbsp; <a id="note3" href="#note3ref"><sup>3</sup></a> The River Thames is a river that flows through southern England including London. At 215 miles, it is the longest river entirely in England and the second longest in the United Kingdom, after the River Severn. It flows through Oxford, Reading, Henley-on-Thames and Windsor.
+&nbsp;&nbsp;&nbsp;<a id="note3" href="#note3ref"><sup>3</sup></a> The River Thames is a river that flows through southern England including London. At 215 miles, it is the longest river entirely in England and the second longest in the United Kingdom, after the River Severn. It flows through Oxford, Reading, Henley-on-Thames and Windsor.
