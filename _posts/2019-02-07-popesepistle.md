@@ -71,7 +71,14 @@ Look sour, and hum a tune — as you may now.
 - bohea - tea
 - garret - attic
 - rack - torture
-- 
+- whist - [card game](https://www.bicyclecards.com/how-to-play/whist/)
+- sack - wine
+- give one flirt - close the fan 
+- her slave - Pope himself
+- paints - imagines
+- Parthenia - Pope's name for Ms Blunt's sister
+- gay - [John Gay](https://en.wikipedia.org/wiki/John_Gay) Pope's Life long friend
+- coxcomb - man about town
 
 
 ## Background
