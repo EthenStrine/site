@@ -94,3 +94,5 @@ II 15-18 - **tone** - suggests that, in her world, the days just drag by - "...c
 II 21-22 - **tone**  - Pope takes a satirical jab at the puritanical religious practices of the country gentry.  
 II 23-30 - in contrast to the suave and debonair gentlemen she met in [London](https://www.google.com/maps/place/London,+UK/@51.5287718,-0.24168,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583), Miss Blount, unhappily, is stuck with the inept and bumbling country squire, a doofus who is more enamored of his horse!  
 II 31-40 - Miss Blount, in moments of solitude (and there a lot of them!) longingly recollects her experiences in the city.  
+II 40-end - Pope speaks with fondness of Miss Blount for most of this last section, referring to himself as her "slave."  
+I 47 - Pope's thoughts, however, are just as easily distracted from Miss Blount by a tap on the shoulder - the *irony* here is in the contrast in how the speaker views the world of the city with how Miss Blount views it - "...Gay pats my shoulder and you vanish quite..." - for him, it was just another London weekend.
