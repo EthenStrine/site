@@ -10,7 +10,6 @@ tag:
 - Historical
 comments: true
 ---
-## Poem
 <center><pre>
 As some fond virgin, whom her mother’s care
 Drags from the town to wholesome country air,
