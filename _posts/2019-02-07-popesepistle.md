@@ -85,7 +85,6 @@ Look sour, and hum a tune — as you may now.
  Pope's poem is called an **epistle** - a formal literary letter addressed to a specific person, but intended for a wide audience - unlike an informal letter, the epistle is a conciously public or literary effort rather than a spontaneous, private communication - Pope considered the epistle a formal letter in verse used for the purpose of satirizing society.
 
 ## Notes
-
 II 1-2 - **diction** - her mother "drags" Miss Blount home to the country - suggests that she doesn't really want to return.  
 II 2-3 - Miss Blount is an "innocent" - she is too young to realise that the rogue's "flirtatious" remark - it's all just harmless fun to her.  
 I - "...Thus from the world fair Zephalinda (Miss Blount) flew..." - suggests that, in the country, Miss Blount is protected from the *real* world.  
