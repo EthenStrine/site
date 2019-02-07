@@ -91,4 +91,4 @@ I - "...Thus from the world fair Zephalinda (Miss Blount) flew..." - suggests th
 I 10 - again, re-emphasises that she would much rather have stayed there!
 II 11-20 - **contrats** the kind of world in which Miss Blount exists with the one she left behind.  
 II 15-18 - **tone** - suggests that, in her world, the days just drag by - "...count the slow clock..." also, "...and dine exact at noon..." suggests there's little variation in her dull routine.  
-II 21-22 - **tone** Pope takes a satirical jab at the puritanical religious practices of the country gentry.  
+II 21-22 - **tone**  - Pope takes a satirical jab at the puritanical religious practices of the country gentry.  
