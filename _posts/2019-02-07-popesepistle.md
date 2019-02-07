@@ -2,8 +2,7 @@
 layout: post
 title:  "Epistle to Miss Blount, on Her Leaving the Town after the Coronation"
 date:   2019-02-05
-excerpt: "The poet suggests that romance will not provide a distraction to the under‑stimulated Miss Blount, as any potential suitors will be coarse and more interested in hunting and horses than in fashionable young ladies. In line thirty‑one the poem returns to thoughts of spectacular city pageants and ‘lords and earls and dukes and gartered knights’ as it imagines Miss Blount daydreaming of a richer, more animating life.
-"
+excerpt: "In this Pope addresses his friend Teresa Blount through the work and name of the early seventeenth century French poet and letter-writer Vincent de Voiture."
 feature: https://pbs.twimg.com/media/Dq_hvmVWkAASzeH.jpg
 tag:
 - English
@@ -87,4 +86,6 @@ Look sour, and hum a tune — as you may now.
 
 ## Notes
 
-### 
+II 1-2 - **diction** - her mother "drags" Miss Blount home to the country - suggests that she doesn't really want to return.  
+II 2-3 - Miss Blount is an "innocent" - she is too young to realise that the rogue's "flirtatious" remark - it's all just harmless fun to her.  
+I - "...Thus from the world fair Zephalinda (Miss Blount) flew..." - suggests that, in the country, Miss Blount is protected from the *real* world.
