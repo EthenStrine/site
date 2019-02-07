@@ -89,4 +89,6 @@ II 1-2 - **diction** - her mother "drags" Miss Blount home to the country - sugg
 II 2-3 - Miss Blount is an "innocent" - she is too young to realise that the rogue's "flirtatious" remark - it's all just harmless fun to her.  
 I - "...Thus from the world fair Zephalinda (Miss Blount) flew..." - suggests that, in the country, Miss Blount is protected from the *real* world.  
 I 10 - again, re-emphasises that she would much rather have stayed there!
-II 11-20 - **contrats** the kind of world in which Miss Blount exists with the one she left behind.
+II 11-20 - **contrats** the kind of world in which Miss Blount exists with the one she left behind.  
+II 15-18 - **tone** - suggests that, in her world, the days just drag by - "...count the slow clock..." also, "...and dine exact at noon..." suggests there's little variation in her dull routine.  
+II 21-22 - **tone** Pope takes a satirical jab at the puritanical religious practices of the country gentry.  
