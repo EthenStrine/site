@@ -88,3 +88,5 @@ Look sour, and hum a tune — as you may now.
 II 1-2 - **diction** - her mother "drags" Miss Blount home to the country - suggests that she doesn't really want to return.  
 II 2-3 - Miss Blount is an "innocent" - she is too young to realise that the rogue's "flirtatious" remark - it's all just harmless fun to her.  
 I - "...Thus from the world fair Zephalinda (Miss Blount) flew..." - suggests that, in the country, Miss Blount is protected from the *real* world.  
+I 10 - again, re-emphasises that she would much rather have stayed there!
+II 11-20 - **contrats** the kind of world in which Miss Blount exists with the one she left behind.
