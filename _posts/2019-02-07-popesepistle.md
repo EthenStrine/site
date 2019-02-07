@@ -92,3 +92,5 @@ I 10 - again, re-emphasises that she would much rather have stayed there!
 II 11-20 - **contrats** the kind of world in which Miss Blount exists with the one she left behind.  
 II 15-18 - **tone** - suggests that, in her world, the days just drag by - "...count the slow clock..." also, "...and dine exact at noon..." suggests there's little variation in her dull routine.  
 II 21-22 - **tone**  - Pope takes a satirical jab at the puritanical religious practices of the country gentry.  
+II 23-30 - in contrast to the suave and debonair gentlemen she met in [London](https://www.google.com/maps/place/London,+UK/@51.5287718,-0.24168,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583), Miss Blount, unhappily, is stuck with the inept and bumbling country squire, a doofus who is more enamored of his horse!  
+II 31-40 - Miss Blount, in moments of solitude (and there a lot of them!) longingly recollects her experiences in the city.  
