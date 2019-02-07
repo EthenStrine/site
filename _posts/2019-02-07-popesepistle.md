@@ -66,7 +66,7 @@ Look sour, and hum a tune — as you may now.
 
 ### Things to know
 - plainwork - sewing
-- purling - rippling
+- purling - rippling (think little brook)
 - croaking rooks - crows
 - bohea - tea
 - garret - attic
@@ -84,3 +84,6 @@ Look sour, and hum a tune — as you may now.
 ## Background
  Pope's poem is called an **epistle** - a formal literary letter addressed to a specific person, but intended for a wide audience - unlike an informal letter, the epistle is a conciously public or literary effort rather than a spontaneous, private communication - Pope considered the epistle a formal letter in verse used for the purpose of satirizing society.
 
+## Notes
+
+### 
