@@ -2,7 +2,9 @@
 layout: post
 title:  "Epistle to Miss Blount, on Her Leaving the Town after the Coronation"
 date:   2019-02-05
-excerpt: ""
+excerpt: "The poet suggests that romance will not provide a distraction to the under‑stimulated Miss Blount, as any potential suitors will be coarse and more interested in hunting and horses than in fashionable young ladies. In line thirty‑one the poem returns to thoughts of spectacular city pageants and ‘lords and earls and dukes and gartered knights’ as it imagines Miss Blount daydreaming of a richer, more animating life.
+"
+feature: https://pbs.twimg.com/media/Dq_hvmVWkAASzeH.jpg
 tag:
 - English
 - Notes
