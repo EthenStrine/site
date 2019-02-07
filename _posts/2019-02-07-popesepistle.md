@@ -76,7 +76,7 @@ Look sour, and hum a tune — as you may now.
 - her slave - Pope himself
 - paints - imagines
 - Parthenia - Pope's name for Ms Blunt's sister
-- gay - [John Gay](https://en.wikipedia.org/wiki/John_Gay) Pope's Life long friend
+- gay - [John Gay](https://en.wikipedia.org/wiki/John_Gay) (Pope's Life long friend)
 - coxcomb - man about town
 
 
