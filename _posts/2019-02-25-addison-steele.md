@@ -2,7 +2,7 @@
 layout: post
 title:  "Addison and Steele"
 date:   2019-02-25
-excerpt: "The Spectator was a daily publication founded by Joseph Addison and Richard Steele in England, lasting from 1711 to 1712. Each "paper", or "number", was approximately 2,500 words long, and the original run consisted of 555 numbers, beginning on 1 March 1711. These were collected into seven volumes."
+excerpt: "The Spectator was a daily publication founded by Joseph Addison and Richard Steele in England, lasting from 1711 to 1712. Each 'paper', or 'number', was approximately 2,500 words long, and the original run consisted of 555 numbers, beginning on 1 March 1711. These were collected into seven volumes."
 feature: https://thumbs.worthpoint.com/zoom/images4/1/0916/17/1726-spectator-addison-steele-full_1_8aa59e03d56e409e7eba62af6000a3cb.jpg
 - English
 - Notes
