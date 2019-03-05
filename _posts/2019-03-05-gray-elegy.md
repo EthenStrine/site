@@ -2,7 +2,7 @@
 layout: post
 title:  "Elegy Written in a country Church Yard"
 date:   2019-03-05
-excerpt: ""
+excerpt: "Elegy Written in a Country Churchyard is a poem by Thomas Gray, completed in 1750 and first published in 1751. The poem's origins are unknown, but it was partly inspired by Gray's thoughts following the death of the poet Richard West in 1742."
 tags:
 - English
 - Notes
