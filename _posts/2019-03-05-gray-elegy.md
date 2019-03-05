@@ -179,3 +179,10 @@ No farther seek his merits to disclose,	 125
 Gray is considered a transitional poet, in that his work represents a very distinct shift towards a new poetic direction. Along with Robert Burns and William Blake, Gray's work signals the dawn of the *Romantic Age*.
 
 Remember that an *elegy* is defined as a poem of *mourning*, usually over the death of an individual - might also be a lament over the passing of life and beauty or a meditation over the nature of death. It is a **lyric** poem - formal language and structure - solemn or melancholy tone.
+
+**"Elegy Written in a Country Churchyard"**  
+<br>
+I 1 - __connotation__ (all the emotions and associations that a word or phrase may arouse) "curfew," "tolls," and "knell" have connotations of endings - death. These set the tone for what is to follow.  
+II 6-8 - __imagery__ - descriptions of sound contribute to the hushed tone.  
+I 10 - __personification__ - "The moping owl...complains"  
+I 13 - __symbolism__ - because its dark needles are evergreen (symbolically ever living) the Yew tree was a common cemetry tree associated with death.  
