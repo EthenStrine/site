@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Humans and Celebrities a reasoning."
+title:  "Humans and Celebrities: a Reasoning"
 date:   2019-04-17
 excerpt: "Humans are a social species, and we instinctively follow a social hierarchy. Deep down us humans have the basic need become the leader of the pack, or rather the social leaders."
 project: true
