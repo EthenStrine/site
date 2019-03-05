@@ -186,3 +186,5 @@ I 1 - __connotation__ (all the emotions and associations that a word or phrase m
 II 6-8 - __imagery__ - descriptions of sound contribute to the hushed tone.  
 I 10 - __personification__ - "The moping owl...complains"  
 I 13 - __symbolism__ - because its dark needles are evergreen (symbolically ever living) the Yew tree was a common cemetry tree associated with death.  
+II 17-32 - the poet develops the ***theme*** - life and its small pleasures that the dead will no longer experience.  
+II 29-32 - **personification - "amnition" and "grandeur" represent power and glory of the nobility.  
