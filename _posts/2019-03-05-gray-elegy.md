@@ -189,7 +189,7 @@ I 13 - __symbolism__ - because its dark needles are evergreen (symbolically ever
 II 17-32 - the poet develops the ***theme*** - life and its small pleasures that the dead will no longer experience.  
 II 29-32 - **personification - "amnition" and "grandeur" represent power and glory of the nobility.  
 II 33-34 - develop the *theme* of mortality - death doees not repsect social rank.  
-II 37-40 - ***apostophe*** the poet addresses all who posses the quality *pride* - they too will die.  
+II 37-40 - *apostophe* the poet addresses all who posses the quality *pride* - they too will die.  
 II 45-60 - these lines address the idea of the unrealised potential of those who are now dead.  
 II 49-52 - this stanze suggests poverty and lack of knowlege contribute to unfulfilled lives.  
 I 53 - *symbol - "gem" represents hidden riches  
