@@ -20,3 +20,4 @@ These tales often involved the amorous encounters between an knight and his lady
 
 For our purposes of study, remember that **romance**, from the literary perspective, refers to the "freely imaginative idealizing fiction" and ***not*** love between a man and a woman.
 
+**Romanticism** can be best defined through comparison to the **neoclassical** age which preceded it - the age of Dryden, Pope, Swift, and Johnson.
