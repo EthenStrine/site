@@ -39,12 +39,12 @@ While the orginal ideas behind the French Revolution were embraced by most intel
 
 Even more important, however, was the influence of the Industrial Revolution, which marks the beginning of our modern age - James Watt's perfection of the **steam engine** in 1765 helped to change forever the face of the British industry and the lives of British workers - with the coming of the Industrial Age came the birth of urban, industrial cities, and all that accompanied them:
 
-    - poor wages
-    - slums and ghettos 
-    - child labour
-    - exploitation of the worker
-    - destruction of the enviroment (air and water)
-    - more acute division of people into two classes - wealthy property owners with economic and political power, and the poor wage earners with no rights or possessions.
+- poor wages
+- slums and ghettos 
+- child labour
+- exploitation of the worker
+- destruction of the enviroment (air and water)
+- more acute division of people into two classes - wealthy property owners with economic and political power, and the poor wage earners with no rights or possessions.
 
 England suffered from poor leadership during this era - **George III** was declared incurably insane in 1811 - his son The Prince of Wales acted as Regent until 1820 - the era of "The Regency" was a time of lavish social display and indulgence by the rich - British leadership cared little about the critical problems of society or the hardships of the working class.
 
