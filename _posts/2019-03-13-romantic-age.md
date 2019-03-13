@@ -21,3 +21,12 @@ These tales often involved the amorous encounters between an knight and his lady
 For our purposes of study, remember that **romance**, from the literary perspective, refers to the "freely imaginative idealizing fiction" and ***not*** love between a man and a woman.
 
 **Romanticism** can be best defined through comparison to the **neoclassical** age which preceded it - the age of Dryden, Pope, Swift, and Johnson.
+
+|                  18th Century Neoclassicism                 	|                                                                              Romanticism                                                                              	|
+|:-----------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
+| Reason and the Rational                                     	| **Imagination** and **Emotion (intuition)**                                                                                                                           	|
+| Concern with the **general** or **universal** in experience 	| Championing the value of the **individual**                                                                                                                           	|
+| Followed authority and the **rules** derived from authority 	| Strove for **freedom**                                                                                                                                                	|
+| Inspired by classical Greek and Roman authors               	| Inspired by the innate beauty of the **pastoral** world (nature) - also took a revitalised interest in medieval subjects and settings as well as the **supernatural** 	|
+
+Historically, the Romantic Age was an important period of **revolution** and change.
