@@ -47,3 +47,13 @@ Even more important, however, was the influence of the Industrial Revolution, wh
     - more acute division of people into two classes - wealthy property owners with economic and political power, and the poor wage earners with no rights or possessions.
 
 England suffered from poor leadership during this era - **George III** was declared incurably insane in 1811 - his son The Prince of Wales acted as Regent until 1820 - the era of "The Regency" was a time of lavish social display and indulgence by the rich - British leadership cared little about the critical problems of society or the hardships of the working class.
+
+The Romantic writers of the period felt all these various social and political problems acutely and reflected these feelings in their work - the poets of this era are, perhaps, the finest in the history of the English Language!
+
+**Major Poets of the Romantic Age**
+- William Wordsmith
+- Samuel Taylor Coleridge
+- Percy Bysshe Shelly
+- George Gordon Lord Byron
+- John Keats
+
