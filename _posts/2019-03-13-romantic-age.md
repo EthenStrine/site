@@ -30,3 +30,8 @@ For our purposes of study, remember that **romance**, from the literary perspect
 | Inspired by classical Greek and Roman authors               	| Inspired by the innate beauty of the **pastoral** world (nature) - also took a revitalised interest in medieval subjects and settings as well as the **supernatural** 	|
 
 Historically, the Romantic Age was an important period of **revolution** and change.
+ 
+    - The American Revolution (1776)
+    - The French Revolution (1789)
+    - The Industrial Revolution
+
