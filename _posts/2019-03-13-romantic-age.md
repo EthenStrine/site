@@ -31,9 +31,9 @@ For our purposes of study, remember that **romance**, from the literary perspect
 
 Historically, the Romantic Age was an important period of **revolution** and change.
 
-    - The American Revolution (1776)
-    - The French Revolution (1789)
-    - The Industrial Revolution
+- The American Revolution (1776)
+- The French Revolution (1789)
+- The Industrial Revolution
 
 While the orginal ideas behind the French Revolution were embraced by most intellectuals, the chaotic, bloody aftermath (the **Reign of Terror** and the rise of **Napoleon Bonaparte** <sup>yes, he really was 5'2".</sup>) were met with disillusionment and despair.  
 
