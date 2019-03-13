@@ -37,4 +37,4 @@ Historically, the Romantic Age was an important period of **revolution** and cha
 
 While the orginal ideas behind the French Revolution were embraced by most intellectuals, the chaotic, bloody aftermath (the **Reign of Terror** and the rise of **Napoleon Bonaparte** <sup>Yes, he really was 5'2".</sup>) were met with disillusionment and despair.  
 
-Even more important, however, was the influence of the Industrial Revolution, which marks the beginning of our modern age - James Watt's perfection of the **steam engine** in 1765 helped to change forever the face of the British industry and the lives of 
+Even more important, however, was the influence of the Industrial Revolution, which marks the beginning of our modern age - James Watt's perfection of the **steam engine** in 1765 helped to change forever the face of the British industry and the lives of British workers - with the coming of the Industrial Age came the birth of urban, industrial cities, and all that accompanied them:  
