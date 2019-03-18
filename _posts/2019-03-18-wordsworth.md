@@ -21,3 +21,4 @@ I 24 - expressed in convoluted fashion; for a blind man, the landscape is unseen
 II 25-28 - whether he is lonely or in a crowd, the speaker derives pleasure from his memory of the scene  
 I 49 - an extra ordinary claim for nature's powers, of a kind normally reserved for rekgion!  
 I 50 - Romantic appeals to perosonal experience of validity - "it is true because I have felt it!"  
+I 56 - **apostrophe** - expresses gratitude to the river Wye fir the pleasure it has brough him.  
