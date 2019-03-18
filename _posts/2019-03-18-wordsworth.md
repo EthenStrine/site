@@ -20,3 +20,4 @@ II 9-13 - **imagery** the description of the valley relies on **visual** images 
 I 24 - expressed in convoluted fashion; for a blind man, the landscape is unseen and, therefore, unimportant - *not so for the speaker*!  
 II 25-28 - whether he is lonely or in a crowd, the speaker derives pleasure from his memory of the scene  
 I 49 - an extra ordinary claim for nature's powers, of a kind normally reserved for rekgion!  
+I 50 - 50 Romantic appeals to perosonal experience of validity - "it is true because I have felt it!"  
