@@ -22,3 +22,12 @@ II 25-28 - whether he is lonely or in a crowd, the speaker derives pleasure from
 I 49 - an extra ordinary claim for nature's powers, of a kind normally reserved for rekgion!  
 I 50 - Romantic appeals to perosonal experience of validity - "it is true because I have felt it!"  
 I 56 - **apostrophe** - expresses gratitude to the river Wye fir the pleasure it has brough him.  
+II 67-68 - **simile** - suggests that the speaker, in his youth, was vigorous and nimble.\
+I 82-83 - as a youth, the poet's response to nature is passionate and immediate!  
+II 83-90 - the poet doesn't lament his lost youth because mature thoughtfulness bringing a greater apprecation of nature.  
+I 91 - **metaphor** - the speaker discovers the inner beauty - its power to assuage the sorrows of humanity.
+II 97-100 - links the natural world with the soul of humanity  
+II 109-14 - **metaphor** - nature brings absolute security.  
+II 122-123 - **personification** huamnans must love nature to have here bestow her benifits.  
+II 128-133 - nature can sooth the destress caused by problems of (daily)  
+II 137-150 - the poet hopes that nature will his sister it had helped him.
