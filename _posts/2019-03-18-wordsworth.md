@@ -19,3 +19,4 @@ II 2-4 - **imagery** - sound here here in II 3-4 provides connection between the
 II 9-13 - **imagery** the description of the valley relies on **visual** images - the dominant impression is of greenness, quietness, and peace.  
 I 24 - expressed in convoluted fashion; for a blind man, the landscape is unseen and, therefore, unimportant - *not so for the speaker*!  
 II 25-28 - whether he is lonely or in a crowd, the speaker derives pleasure from his memory of the scene  
+I 49 - an extra ordinary claim for nature's powers, of a kind normally reserved for rekgion!  
