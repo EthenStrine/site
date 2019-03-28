@@ -4,15 +4,8 @@ layout: post
 author: estrine
 permalink: /frankenstein-films/
 source-id: 1VIFKohvG0skC1ZtP0gB7s73b0JIFRBbk7f3tkTxxpA4
-published: true
+published: false
 ---
-Ethen Strine
-
-Mr Elenbaas
-
-British Literature & Composition
-
-12 March 2019
 
 The films that have been made as a result of people reading Mary Shelly's novel all vary in the level of craftsmanship and their ability to stay true to the original work. Throughout the years, starting in 1914, films have been created in order to tell this story. The growing popularity of the monster brought the then budding Hollywood into a festive mood. 
 
