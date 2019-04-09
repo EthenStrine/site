@@ -21,4 +21,5 @@ The 'Byronic Hero' - one of the most prominent literary character types of the R
 - as a result, the Byronic hero is often arrogant, confident, abnormally sensitive, and extremely conscious of himself.
 - s/he rejects the values and moral codes of society - because of this, he is often unrepentant by society's standards.
 - often characterised by a guilty memory of some unnamed sexual crime.
-- 
+- due to these characteristics, the Byronic hero is often a figure of repulsion as well as facination.
+
