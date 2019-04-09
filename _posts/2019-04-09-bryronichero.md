@@ -23,3 +23,6 @@ The 'Byronic Hero' - one of the most prominent literary character types of the R
 - often characterised by a guilty memory of some unnamed sexual crime.
 - due to these characteristics, the Byronic hero is often a figure of repulsion as well as facination.
 
+
+### "Childe Harold's Pilgrimage" (Apostrophe to the Ocean)
+This is the poem that made Byron the most famous poet in England. It consists of four cantos that were written over a period of six years. It is, primarily, a **travelogue** - the first two cantos, published in 1812, are based on Byron's travels through Spain, Portugal, Albania, and Greece from 1809 to 1811. The poem follows the wanderings of Childe Harold ("childe" is a medieval term for a young nobleman awaiting knighthood), a melancholy, passionate, guilt-haunted, but proud outcast who, as a fictional projection of one aspect of Byron's own personality, establishes the prototype
