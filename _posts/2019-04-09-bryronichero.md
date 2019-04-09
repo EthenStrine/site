@@ -9,7 +9,7 @@ tag:
 - Notes
 - Romantic Age 
 - Historical
-- Bryron
+- Byron
 comments: true
 ---
 
