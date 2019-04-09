@@ -105,3 +105,7 @@ And laid my hand upon thy mane—as I do here.
 II 1-2 suggests that the woods are untraveled  
 I 3 - *paradox* - society requires the presence of others - the narrator makes a "friend" of the natural world.  
 I 9 - *paradox* - the narrator can neither fully express nor conceal his emotions - this suggests that the emotions are extremely powerful.  
+I 10 - *apostrophe* - expresses an affinity with and love for the ocean.  
+II 12-14 - the ocean is invulnerable to the actions of humanity.  
+II 15-16 - *simile* - this comparison suggests humanity's insignificance.  
+
