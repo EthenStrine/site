@@ -3,7 +3,7 @@ layout: post
 title:  "The 'Byronic Hero' & 'She Walks in Beauty'"
 date:   2019-04-09
 excerpt: "The "
-feature: assets\img\crow.jpg
+feature: https://dwarf.pro/site/assets/img/crow.jpg
 tag:
 - English
 - Notes
