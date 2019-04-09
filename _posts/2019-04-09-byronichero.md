@@ -109,3 +109,5 @@ I 10 - *apostrophe* - expresses an affinity with and love for the ocean.
 II 12-14 - the ocean is invulnerable to the actions of humanity.  
 II 15-16 - *simile* - this comparison suggests humanity's insignificance.  
 I 27 - personified, the ocean despises and punishes human evil.  
+I 34 - *metaphor* - the ocean is superior to human beings and their work ("toys")  
+II 43-45 - the power  of empires diminishes, but the power of the ocean remains unchangeable - "time writes no wrinkle... azure brow" - excellent use of **personification** here!  
