@@ -3,7 +3,7 @@ layout: post
 title:  "The 'Byronic Hero' & 'She Walks in Beauty'"
 date:   2019-04-09
 excerpt: "The "
-feature: https://dwarf.pro/site/assets/img/crow.jpg
+feature: https://dwarf.pro/site/assets/img/croww.jpg
 tag:
 - English
 - Notes
@@ -25,4 +25,4 @@ The 'Byronic Hero' - one of the most prominent literary character types of the R
 
 
 ### "Childe Harold's Pilgrimage" (Apostrophe to the Ocean)
-This is the poem that made Byron the most famous poet in England. It consists of four cantos that were written over a period of six years. It is, primarily, a **travelogue** - the first two cantos, published in 1812, are based on Byron's travels through Spain, Portugal, Albania, and Greece from 1809 to 1811. The poem follows the wanderings of Childe Harold ("childe" is a medieval term for a young nobleman awaiting knighthood), a melancholy, passionate, guilt-haunted, but proud outcast who, as a fictional projection of one aspect of Byron's own personality, establishes the prototype
+This is the poem that made Byron the most famous poet in England. It consists of four cantos that were written over a period of six years. It is, primarily, a **travelogue** - the first two cantos, published in 1812, are based on Byron's travels through Spain, Portugal, Albania, and Greece from 1809 to 1811. The poem follows the wanderings of Childe Harold ("childe" is a medieval term for a young nobleman awaiting knighthood), a melancholy, passionate, guilt-haunted, but proud outcast who, as a fictional projection of one aspect of Byron's own personality, establishes the prototype for the "Byronic hero." Canto III is considered to be the poem's finest section, but Canto IV contains many fine moments, including our excerpt, Byron's famous address to the ocean.
