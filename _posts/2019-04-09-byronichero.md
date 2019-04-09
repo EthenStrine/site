@@ -2,7 +2,7 @@
 layout: post
 title:  "The 'Byronic Hero' & 'She Walks in Beauty'"
 date:   2019-04-09
-excerpt: "The "
+excerpt: "The Byronic Hero is a type of character popularized by the works of Lord Byron, whose protagonists often embodied this archetype (though they did exist before him). This trope gained prominence during Romanticism. Sometimes an Anti-Hero, others an Anti-Villain, or even Just a Villain, Byronic heroes are charismatic characters with strong passions and ideals, but who are nonetheless deeply flawed individuals who may act in ways which are socially reprehensible because he's definitely contrary to his mainstream society."
 feature: https://dwarf.pro/site/assets/img/croww.jpg
 tag:
 - English
@@ -108,4 +108,4 @@ I 9 - *paradox* - the narrator can neither fully express nor conceal his emotion
 I 10 - *apostrophe* - expresses an affinity with and love for the ocean.  
 II 12-14 - the ocean is invulnerable to the actions of humanity.  
 II 15-16 - *simile* - this comparison suggests humanity's insignificance.  
-
+I 27 - personified, the ocean despises and punishes human evil.  
