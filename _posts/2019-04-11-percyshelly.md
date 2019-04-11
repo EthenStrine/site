@@ -141,4 +141,5 @@ I 12 - *contrasts* with the colours of "pestilence-stricken" leaves of earlier.
 I 14 - *paradox* - the wind as both destroyer and creator because it tears off the leaves causing them to decay - it is only by the wind's power that seeds reach the ground to take root.  
 II 23-25 - *imagery* - death imagery continues with "dying year" and "sepulcher"  
 I 28 - *imagery* - "black rain," "fire," "hail" suggest violent, destructive scene.  
-II 29-31 - *personification* - the force of the West Wind continues - it now disturbs the peaceful slumber of the sea.
+II 29-31 - *personification* - the force of the West Wind continues - it now disturbs the peaceful slumber of the sea.  
+II 41-42 - *imagery* - implication of impending violence suggests awesome quality of the wind.  
