@@ -2,7 +2,7 @@
 layout: post
 title:  "'Ode to the West Wind' - Percy Bysshe Shelley"
 date:   2019-04-11
-excerpt: ""
+excerpt: "An ode, written by Percy Bysshe Shelley in 1819 near Florence, Italy. It was originally published in 1820 by Charles in London as part of the collection Prometheus Unbound, A Lyrical Drama in Four Acts, With Other Poems"
 feature: https://i2.wp.com/hamandista.com/wp-content/uploads/2017/08/P.-B.-Shelly%E2%80%99s-%E2%80%9COde-to-the-West-Wind%E2%80%9DHamandista-Academy.jpg?fit=738%2C532
 tag:
 - English
