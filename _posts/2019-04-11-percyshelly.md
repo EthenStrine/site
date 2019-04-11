@@ -25,6 +25,8 @@ Dirge -  a somber song or lament expressing mourning or grief, such as would be 
 </p>
 </div>
 
+---
+
 <center><pre>
 Ode to the West Wind
 
@@ -143,3 +145,6 @@ II 23-25 - *imagery* - death imagery continues with "dying year" and "sepulcher"
 I 28 - *imagery* - "black rain," "fire," "hail" suggest violent, destructive scene.  
 II 29-31 - *personification* - the force of the West Wind continues - it now disturbs the peaceful slumber of the sea.  
 II 41-42 - *imagery* - implication of impending violence suggests awesome quality of the wind.  
+I 54 - *figurative language* - this line is often cited, to Shelley's detriment, as self-dramatising and overly emotional - there was, however, great tragedy in his life.  
+I 57 - *metaphor* - several Romantics used **lyre** as a metaphor for the poet; has the suggestion of *divine inspiration*.  
+I 69 - *theme* - reminds the reader that Shelley's purpose was profoundly political: to change the hearts and minds of people  
