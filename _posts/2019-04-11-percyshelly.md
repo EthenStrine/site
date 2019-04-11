@@ -12,7 +12,9 @@ tag:
 comments: true
 ---
 
-**Ode** - a complex and often lengthy **lyric** poem, written in a dignified formal style on some loft or serious subect. 
+**Ode** - a complex and often lengthy **lyric** poem, written in a dignified formal style on some loft or serious subect.   
+
+<p align="right">Odes were often written for a special occasion, to honour a person or a season, or to commemorate an event. In ancient times, odes were typically set to music. </p>
 
 
 <center><pre>
