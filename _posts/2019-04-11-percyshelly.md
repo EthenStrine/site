@@ -18,8 +18,8 @@ comments: true
 
 <div> 
 <p>
-Quick Vocab: </br>
-Mænad - Maenad, female follower of the Greek god of wine, Dionysus. The word maenad comes from the Greek maenades, meaning “mad” or “demented.” During the orgiastic rites of Dionysus, maenads roamed the mountains and forests performing frenzied, ecstatic dances and were believed to be possessed by the god.</br>
+Quick Vocab: <br>
+Mænad - Maenad, female follower of the Greek god of wine, Dionysus. The word maenad comes from the Greek maenades, meaning “mad” or “demented.” During the orgiastic rites of Dionysus, maenads roamed the mountains and forests performing frenzied, ecstatic dances and were believed to be possessed by the god.<br>
 
 Dirge -  a somber song or lament expressing mourning or grief, such as would be appropriate for performance at a funeral. 
 </p>
