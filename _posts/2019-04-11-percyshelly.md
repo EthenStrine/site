@@ -127,3 +127,7 @@ If Winter comes, can Spring be far behind?	  70
 </pre> </center>
 
 I 1 - *apostrophe* - the speaker addresses thoughts directly to the West Wind.  
+I 5 - *diction* - use of **pestilence** - a deadly disease - magnifies the destructive quality of autumn.  
+I 8 - *simile* - good image here - seeds in their "grave"  
+I 12 - *contrasts* with the colours of "pestilence-stricken" leaves of earlier.  
+I 14 - *paradox* - the wind as both destroyer and creator because it tears off the leaves causing them to decay - it is only by the wind's power that seeds reach the ground to take root.  
