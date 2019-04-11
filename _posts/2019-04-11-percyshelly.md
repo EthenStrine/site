@@ -125,3 +125,5 @@ Ashes and sparks, my words among mankind!
 The trumpet of a prophecy! O Wind,	 
 If Winter comes, can Spring be far behind?	  70
 </pre> </center>
+
+I 1 - *apostrophe* - the speaker addresses thoughts directly to the West Wind.  
