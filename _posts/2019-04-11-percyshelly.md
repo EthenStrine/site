@@ -16,6 +16,14 @@ comments: true
 
 <p align="right">Odes were often written for a special occasion, to honour a person or a season, or to commemorate an event. In ancient times, odes were typically set to music. </p>
 
+<div> 
+<p>
+Quick Vocab: </br>
+Mænad - Maenad, female follower of the Greek god of wine, Dionysus. The word maenad comes from the Greek maenades, meaning “mad” or “demented.” During the orgiastic rites of Dionysus, maenads roamed the mountains and forests performing frenzied, ecstatic dances and were believed to be possessed by the god.</br>
+
+Dirge -  a somber song or lament expressing mourning or grief, such as would be appropriate for performance at a funeral. 
+</p>
+</div>
 
 <center><pre>
 Ode to the West Wind
@@ -131,3 +139,6 @@ I 5 - *diction* - use of **pestilence** - a deadly disease - magnifies the destr
 I 8 - *simile* - good image here - seeds in their "grave"  
 I 12 - *contrasts* with the colours of "pestilence-stricken" leaves of earlier.  
 I 14 - *paradox* - the wind as both destroyer and creator because it tears off the leaves causing them to decay - it is only by the wind's power that seeds reach the ground to take root.  
+II 23-25 - *imagery* - death imagery continues with "dying year" and "sepulcher"  
+I 28 - *imagery* - "black rain," "fire," "hail" suggest violent, destructive scene.  
+II 29-31 - *personification* - the force of the West Wind continues - it now disturbs the peaceful slumber of the sea.
