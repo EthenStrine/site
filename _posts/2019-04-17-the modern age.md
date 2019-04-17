@@ -2,7 +2,7 @@
 layout: post
 title:  "The Introduction for the Modern Age"
 date:   2019-04-17
-excerpt: "The changes brought upon England by the Industrial Revolution, advances in science and technology, and the increasing number of poor had overwhelming effects on Britain and her people"
+excerpt: "The changes brought upon England by the Industrial Revolution, advances in science and technology, and the increasing number of poor."
 feature: https://d1sxy7l4fhu207.cloudfront.net/assets/img/series/BIR.jpg
 tag:
 - English
