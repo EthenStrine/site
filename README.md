@@ -1,1 +1,0 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/36956adf-89b0-41c8-a470-ded3d0337c84/deploy-status)](https://app.netlify.com/sites/dwarf/deploys)
